@@ -5,6 +5,10 @@ Hey
 
 .. math::
 
-	x^2 = \sin \psi + \begin{matrix} 10  \\ 9   \end{matrix}
+	x^2 = \sin \psi + 10
 
 Back
+
+.. math::
+
+ \xi_{x}^{y}

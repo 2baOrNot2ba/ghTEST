@@ -12,3 +12,8 @@ Back
 .. math::
 
  \xi_{x}^{y}
+
+End
+---
+
+The end.
